@@ -1,0 +1,16 @@
+Add Portfolio project to repository
+
+This is my second project at Udacity, Nanodegree Full Stack Web Developer program, it contains logo, name of the author, main image and some portfolio with titles and links.
+
+The cc folder contains main style with colors, fonts and responsive, the other one is bootstrap framework.
+
+The index.html is the main page
+
+Here are included these files:
+index.html
+css with main.css and bootstrap.css
+img folder with the project images
+README.md file
+
+You can start the website by clicking the index.html file and opening it in one of your favorite browsers.
+
