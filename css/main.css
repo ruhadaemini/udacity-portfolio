@@ -10,7 +10,7 @@ body {
 }
 
 .text-thin {
-  font-weight: 100;
+  font-weight: 300;
 }
 
 .title-super {
@@ -18,7 +18,7 @@ body {
 }
 
 .title-logo {
-  margin-top: 20px;
+  margin-top: 25px;
 }
 
 .thick-hr {
